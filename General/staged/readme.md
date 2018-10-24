@@ -1,1 +1,1 @@
-../../.git/annex/objects/2X/6P/SHA256E-s69--c5f4cb388c530ad41e70b9a43aaa33ce3edebf7075d983a609d8beedeb778ff4.md/SHA256E-s69--c5f4cb388c530ad41e70b9a43aaa33ce3edebf7075d983a609d8beedeb778ff4.md
+This folder contains all of your staged files for the project General
