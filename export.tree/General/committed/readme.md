@@ -1,1 +1,0 @@
-This folder contains all of your committed files for the project General
